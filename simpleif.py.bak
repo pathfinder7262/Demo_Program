@@ -1,0 +1,9 @@
+#check do u have ticket or not
+#simpleif.py
+
+tkt = input("Do U Hva ticket(YES/NOT)")
+if tkt == "YES":
+	print("Watch movie")
+	print("Enjoy the movie")
+print("ooh u, have no ticket ,go home")
+print("rwad kvr notes...")

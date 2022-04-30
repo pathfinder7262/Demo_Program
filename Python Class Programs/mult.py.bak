@@ -1,0 +1,7 @@
+#WAP For multiplication of two number
+#mul.py
+
+a = input("Enter 1st number:- ")
+b = input("Enter 1st number:- ")
+c = float(a) * float(b)
+print(c)
